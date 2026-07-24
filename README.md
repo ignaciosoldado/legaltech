@@ -18,6 +18,7 @@ A collection of sums of legal codes in an accessible, versioned format. It promo
 | 05 | [Data-Act.md](./05-Data-Act.md) | Data Act (EU 2023/2854) | 🇬🇧 English | 🇪🇺 EU |
 | 06 | [DSA.md](./06-DSA.md) | Digital Services Act (EU 2022/2065) | 🇬🇧 English | 🇪🇺 EU |
 | 07 | [DMA.md](./07-DMA.md) | Digital Markets Act (EU 2022/1925) | 🇬🇧 English | 🇪🇺 EU |
+| 08 | [LPRL.md](./08-LPRL.md) | Ley de Prevención de Riesgos Laborales (LPRL 31/1995) | 🇪🇸 Español | 🇪🇸 Spain |
 
 ---
 
@@ -37,6 +38,10 @@ A collection of sums of legal codes in an accessible, versioned format. It promo
 ### Digital Markets and Platforms
 - **DSA** → platform accountability; illegal content; algorithmic transparency; systemic risk
 - **DMA** → gatekeeper obligations; self-preferencing; data combination; interoperability
+
+### Laboral Protections
+- **LPRL** → focuses on the hierarchy of mitigating physical hazards and can also be applied to digital prevention design.
+
 
 ---
 
@@ -74,6 +79,7 @@ DSA + DMA ── "Twin package" for large platforms (same designated companies)
 | AI Act (prohibited practices) | February 2025 |
 | AI Act (high-risk + GPAI) | August 2026 |
 | AI Act (full) | August 2027 |
+| LPRL | February 1996 |
 
 ---
 
@@ -87,6 +93,7 @@ DSA + DMA ── "Twin package" for large platforms (same designated companies)
 | **EDPB** | Coordination of EU data protection authorities |
 | **EU AI Office** | GPAI supervision; AI Act coordination |
 | **European Commission** | DMA enforcement; VLOP/VLOSE supervision (DSA) |
+| **LPRL compliance & penalties** | Health & safety enforcement forces (LPRL) |
 
 ---
 
